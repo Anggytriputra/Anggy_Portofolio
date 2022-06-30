@@ -10,5 +10,4 @@ Globally, stroke is the second leading cause of death and the third leading caus
 <br>
 
 
-
-[^1]: This is the footnote.
+Here's a sentence with a footnote. [^1]
