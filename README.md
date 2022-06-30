@@ -1,2 +1,3 @@
 # Anggy_Portofolio
-My portofoli data science
+- Hello, this is my data science portfolio
+- please choose
