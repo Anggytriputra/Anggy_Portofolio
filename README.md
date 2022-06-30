@@ -1,3 +1,3 @@
 # Anggy_Portofolio
-<p>This is the first line.<br>
-And this is the second line.</p>
+<p>This is my data science portfolio.<br>
+please take a look.</p>
