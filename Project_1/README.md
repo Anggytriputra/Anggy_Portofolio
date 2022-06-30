@@ -19,3 +19,4 @@ Globally, stroke is the second leading cause of death and the third leading caus
 
 ## EDA
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/Project_1/images/newplot%20(1).png)
+![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/Project_1/images/newplot%20(1).png)
