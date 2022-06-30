@@ -10,7 +10,7 @@ Globally, stroke is the second leading cause of death and the third leading caus
 **Source of data for learning :** https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Youtube Project Walk-Thought
-Coming Soon...
+[Coming Soon...](https://www.example.com)
 
 ## Table Of Content
 - Current Problem
