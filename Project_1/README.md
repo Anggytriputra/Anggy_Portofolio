@@ -4,8 +4,7 @@ Globally, stroke is the second leading cause of death and the third leading caus
 ## Code and Resources Used
 **Python Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 3.9.7
 <br>
-**Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** pandas, numpy, matplotlib.pyplot, plotly.express, seaborn, sklearn.preprocessing,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sklearn.model_selection, imblearn.over_sampling, 
+**Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** pandas, numpy, matplotlib.pyplot, plotly.express,seaborn, sklearn.preprocessing,sklearn.model_selection, imblearn.over_sampling, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sklearn.svm,Sklearn.metrics,sklearn.model_selection, 
 sklearn.linear_model, sklearn.ensemble, xgboost.
 <br>
