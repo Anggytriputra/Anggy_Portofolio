@@ -8,4 +8,4 @@ Globally, stroke is the second leading cause of death and the third leading caus
 ![t](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/Project_1/images/male-medical-figure-with-front-brain-highlighted.jpg)
 
 # [Project 2: Prediction Credit Risk:](https://github.com/Anggytriputra/Anggy_Portofolio/tree/main/project_2)
-
+My final assignment during the contract period as an internal Data Scientist at ID/X Partners, the dataset provided contained a project from a lending company and was asked to build a model that can predict Credit Risk consisting of data on loans received and rejected.
