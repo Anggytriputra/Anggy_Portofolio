@@ -7,5 +7,5 @@ Globally, stroke is the second leading cause of death and the third leading caus
 
 ![t](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/Project_1/images/male-medical-figure-with-front-brain-highlighted.jpg)
 
-# [Project 2: Prediction Risk Credit:](https://github.com/Anggytriputra/Anggy_Portofolio/tree/main/project_2)
+# [Project 2: Prediction Credit Risk:](https://github.com/Anggytriputra/Anggy_Portofolio/tree/main/project_2)
 
