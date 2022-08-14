@@ -1,5 +1,5 @@
 # Anggy_Portofolio
-<p>This is my data science portfolio, which was generated after learning from Course-Net Indonesia<br>
+<p>This is my data science portfolio.<br>
 Please choose and see:</p>
 
 # [Project 1: Data Science Prediction Stroke:](https://github.com/Anggytriputra/Anggy_Portofolio/tree/main/Project_1)
