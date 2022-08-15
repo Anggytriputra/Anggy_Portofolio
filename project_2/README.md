@@ -7,3 +7,7 @@ First I want to say thank you to [RAKAMIN](https://www.rakamin.com/virtual-inter
 **Packages :** pandas, numpy, missingno, seaborn,matplotlib.pyplot, plotly.express, sklearn.
 
 ## Table of Content
+- Current Problem
+- Major Goal
+- The Findings
+
