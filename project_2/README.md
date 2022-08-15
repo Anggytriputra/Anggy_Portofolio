@@ -19,5 +19,5 @@ A [credit risk](https://en.wikipedia.org/wiki/Credit_risk) is risk of default on
 Some customers run the risk of default resulting in losses for the lender.
 
 # Our 2 Major Goals
-![]()
+![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/2%20major%20goals.png)
 
