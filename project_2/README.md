@@ -15,5 +15,5 @@ A [credit risk](https://en.wikipedia.org/wiki/Credit_risk) is risk of default on
 - Major Goal
 - The Findings
 
-# What is The Current Problem
+# 1. What is The Current Problem?
 Some customers run the risk of default resulting in losses for the lender.
