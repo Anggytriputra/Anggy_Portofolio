@@ -4,4 +4,4 @@ First I want to say thank you to [RAKAMIN](https://www.rakamin.com/virtual-inter
 # Code Used
 **Python Version :** 3.9.7
 <br>
-**Packages :** pandas, numpy, missingno, seaborn, plotly.express, sklearn.
+**Packages :** pandas, numpy, missingno, seaborn,matplotlib.pyplot, plotly.express, sklearn.
