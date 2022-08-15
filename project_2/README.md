@@ -22,5 +22,5 @@ Some customers have the risk of default which results in losses for the lender.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/2%20major%20goals.png)
 
 # Our Solution to Solve Current Problem
-![]()
+![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/flowchart.png)
 
