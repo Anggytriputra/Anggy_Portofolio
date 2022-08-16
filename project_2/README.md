@@ -26,5 +26,5 @@ Some customers have the risk of default which results in losses for the lender.
 
 # Exploratary Data Analysis
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/Grade%20vs%20Loan_amnt.png)
-![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/grade%20vs%20status.png)
+![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/grade%20and%20emp%20vs%20status.png)
 
