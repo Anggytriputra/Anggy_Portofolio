@@ -25,4 +25,4 @@ Some customers have the risk of default which results in losses for the lender.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/flowchart.png)
 
 # Exploratary Data Analysis
-![]()
+![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/Grade%20vs%20Loan_amnt.png)
