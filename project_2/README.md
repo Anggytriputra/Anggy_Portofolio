@@ -31,3 +31,4 @@ Some customers have the risk of default which results in losses for the lender.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/int%20vs%20grade.png)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/density%20plot.png)
 
+# Modelling
