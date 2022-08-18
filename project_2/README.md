@@ -25,7 +25,7 @@ Some customers have the risk of default which results in losses for the lender.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/flowchart.png)
 
 # Exploratary Data Analysis
-In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F, and G and each grade has 5 levels.
+In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F, G and each grade has 5 levels.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/state.html)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/Grade%20vs%20Loan_amnt.png)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/grade%20and%20emp%20vs%20status.png)
