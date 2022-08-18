@@ -33,4 +33,6 @@ In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/int%20vs%20grade.png)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/density%20plot.png)
 
+# Summary EDA
+
 # Modelling
