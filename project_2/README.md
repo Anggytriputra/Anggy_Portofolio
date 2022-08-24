@@ -31,6 +31,7 @@ In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F
 We can see from the picture above that with each grade increase, the number of loan applications increases. Next, let's look at each grade of people who are at risk of failing to make a payment.
 
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/grade%20and%20emp%20vs%20status.png)
+we can see that the higher the grade level, the higher the risk of loan default.
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/Installment%20%26%20annual_inc%20vs%20grade.png)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/int%20vs%20grade.png)
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/density%20plot.png)
