@@ -35,8 +35,8 @@ In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F
 ![](https://github.com/Anggytriputra/Anggy_Portofolio/blob/main/project_2/images/density%20plot.png)
 
 # Summary EDA
-1. We can see from the picture above that with each grade increase, the number of loan applications increases.
-2. The higher the risk of loan default.
+1. We can see from the picture above that with each grade level increases, the loan amount increases.
+2. The higher the grade level, the higher the risk of loan default.
 3. Employment length in years does not affect the risk of loan default.
 
 
