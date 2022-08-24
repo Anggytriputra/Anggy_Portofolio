@@ -39,6 +39,7 @@ In this data, loan categories are divided into 7 grades, namely A, B, C, D, E, F
 2. The higher the grade level, the higher the risk of loan default.
 3. Employment length in years does not affect the risk of loan default.
 4. The higher the grade level, the lower the average yearly income of the borrower and who are at risk of default on loans with annual income < $45,000.
+5. In the previous statement, that the higher the grade level, the higher the loan amount and make the monthly installments bigger to pay the loan.
 
 
 # Modelling
